@@ -1,0 +1,22 @@
+export const bancosFamosos = [
+    { nome: 'Banco do Brasil', logo: '/logos/banco-do-brasil.png' },
+    { nome: 'Itaú', logo: '/logos/itau.png' },
+    { nome: 'Bradesco', logo: '/logos/bradesco.png' },
+    { nome: 'Santander', logo: '/logos/santander.png' },
+    { nome: 'Caixa Econômica Federal', logo: '/logos/caixa.png' },
+    { nome: 'Nubank', logo: '/logos/nubank.png' },
+    { nome: 'Banco Inter', logo: '/logos/banco-inter.png' },
+    { nome: 'BTG Pactual', logo: '/logos/btg.png' },
+    { nome: 'Banco Safra', logo: '/logos/banco-safra.png' },
+    { nome: 'Banrisul', logo: '/logos/banrisul.png' },
+    { nome: 'Banco da Amazônia', logo: '/logos/banco-amazonia.png' },
+    { nome: 'Banco do Nordeste', logo: '/logos/banco-nordeste.png' },
+    { nome: 'HSBC', logo: '/logos/hsbc.png' },
+    { nome: 'Original', logo: '/logos/original.png' },
+    { nome: 'C6 Bank', logo: '/logos/c6-bank.png' },
+    { nome: 'Sicoob', logo: '/logos/sicoob.png' },
+    { nome: 'Sicredi', logo: '/logos/sicredi.png' },
+    { nome: 'B3', logo: '/logos/b3.png' },
+    { nome: 'Banco Pan', logo: '/logos/banco-pan.png' },
+    { nome: 'Banco Votorantim', logo: '/logos/banco-votorantim.png' }
+  ]
